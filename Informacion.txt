@@ -1,0 +1,8 @@
+Tema: 
+Desarrollo de las interfaces de usuario de la tienda virtual KasleGlam Store
+Integrantes:
+Mendoza Andrade Guido Adrián
+Mendoza Loor Bryan Aldair
+Murillo Párraga Jorge Antonio
+Facilitador:
+Ing. Thomas Loor
